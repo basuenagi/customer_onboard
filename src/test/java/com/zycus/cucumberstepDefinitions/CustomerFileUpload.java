@@ -1,4 +1,4 @@
-package stepDefinitions;
+package com.zycus.cucumberstepDefinitions;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
