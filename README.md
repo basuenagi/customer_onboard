@@ -6,3 +6,4 @@ This architecture embeds
 -Selenium Webdriver to run UI tests
 -Apache POI to load/read data from excel
 -Surefire to report testing results
+-Presentation (PPT) file to brief deliverables
